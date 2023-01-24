@@ -2,6 +2,6 @@ fastapi
 uvicorn
 psycopg2
 deepface
-cv2
+opencv-python
 numpy
 imageio
